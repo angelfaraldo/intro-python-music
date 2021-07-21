@@ -4,3 +4,7 @@ INTRODUCCIÓN A LA PROGRAMACIÓN EN PYTHON A TRAVÉS DE LA MÚSICA
 Campus Junior, Universitat Pompeu Fabra
 """
 
+from music_functions import *
+
+
+play_note(65)

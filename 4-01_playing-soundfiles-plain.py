@@ -4,3 +4,8 @@ INTRODUCCIÓN A LA PROGRAMACIÓN EN PYTHON A TRAVÉS DE LA MÚSICA
 Campus Junior, Universitat Pompeu Fabra
 """
 
+# THIS IS THE SIMPLEST POSSIBLE WAY
+from magicsound import magicsound
+
+# this library can do no more
+magicsound('./samples/drums.wav')

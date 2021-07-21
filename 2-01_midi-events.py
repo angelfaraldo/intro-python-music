@@ -48,8 +48,7 @@ out_port.send(mido.Message('note_on', note=72))
 # en especial... hay uno muy interesante que es el llamado "panic" button.
 # lo que hace es mandar un mensaje de note_off a todas las notas
 # es el control número 123, al que hay que mandarle un valor de 0:
-out_port.send(mido.Message('control_change', control=123, value=0))
-
+x
 # otro elemento interesante es cambiar los "instrumentos" del sintetizador.
 # en el standard general midi, se definió una "orquesta" de instrumentos,
 # cada uno con su número de programa (mirad la lista adjunta.
