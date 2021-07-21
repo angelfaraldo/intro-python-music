@@ -1,0 +1,23 @@
+LINKS DE DESCARGA - DAW Y PLUGINS
+=================================
+
+REAPER -- potentísimo editor de audio multiplataforma.
+https://www.reaper.fm/
+
+
+LOOPMIDI - Puerto virtual de MIDI para Windows.
+http://www.tobias-erichsen.de/software/loopmidi.html
+
+
+OB-DX - Sintetizador monofónico por software (VST).
+https://freevstplugins.net/obxd/
+
+Dexed - Sintetizador polifónico FM por software (VST).
+https://dexedsynth.com/download/
+
+Musescore -- Editor y visor de partituras en midi y musicxml
+https://musescore.org/en
+
+
+FFMPEG -- Swiss army knife for media formats
+https://evermeet.cx/ffmpeg/

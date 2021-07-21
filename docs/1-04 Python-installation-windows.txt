@@ -1,0 +1,40 @@
+
+Para instalar una versión de python y sus dependencias correctamente, sigue los siguientes pasos:
+
+1) Instala la versión de Python3.9 que se encuentra en la carpeta "intro-python-music/software"
+
+2) En el proceso de instalación, te dará la opción de añadir python3.9 al PATH. Confirma!
+
+3) Una vez instalado, abre el Power Shell para instalar PyAudio y vete hasta la carpeta "software."
+luego instala PyAudio via pip:
+
+    cd <arrastra-aquí-la-carpeta-software>
+    pip install PyAudio-0.2.11-cp39-cp39-win_amd64
+
+4) Ahora podemos abrir PyCharm para configurar nuestro entorno. La manera más sencilla es arrastrar
+la carpeta "intro-python-music" directamente a PyCharm. Creará un proyecto con todos los archivos.
+
+5) Una vez creado el proyecto, PyCharm nos pedirá que seleccionemos un intérprete. Si no o hace,
+podemos configurarlo clickando en la esquina inferior derecha de la interfaz gráfica. Seleccionamos
+"add interpreter" y lo configuramos con las siguientes opciones:
+
+    - System interpreter (crearemos un intérprete global para que nos sirva en todos los proyectos).
+    - Creamos un nuevo intérprete encontrando el ejecutable de python3.9. que está instalado en la
+      siguiente carpeta:
+
+        C:\Users\YOUR_USERNAME\AppData\Local\Programs\Python\Python39\python.exe
+
+    - "AppData" es una carpeta oculta, así que tendrás que seleccionar el icono con el ojo antes de
+      poder verla en el sistema de archivos.
+
+6) En principio, ya tenemos el intérprete configurado. Ahora hemos de añadir algunas librerías
+externas. Para ello, en la misma esquina inferior derecha, vete a "interpreter settings". Se te
+abrirá una ventanita donde puedes añadir librerías, pulsando el botón "+". Añade, una a una, las
+siguientes:
+
+    numpy pyo PyAudio magicsound mido wxPython python-rtmidi music21
+
+
+IMPORTANTE: POR COMO ESTÁN CONFIGURADOS LOS ORDENADORES DEL AULA, CADA VEZ QUE CERRÁIS SESIÓN
+SE PIERDEN TODOS LOS DATOS. POR ESA RAZÓN OS RECOMINENDO QUE DEJÉIS ENCENDIDOS VUESTROS ORDENADORES
+DURANTE TODO EL TALLER.

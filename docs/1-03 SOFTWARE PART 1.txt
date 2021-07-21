@@ -1,0 +1,36 @@
+
+LINKS DE DESCARGA - PYTHON
+==========================
+
+Python 3.9.6 AMD64 -- distribución actualizada del intérprete
+https://www.python.org/downloads/
+
+PyAudio --- Unnoficial distribution (la versión oficial no carga en windows. Seguid las instruccciones de instalación en el archivo installation-windows.txt:
+Ir a https://www.lfd.uci.edu/~gohlke/pythonlibs/ y buscar la versión apropiada
+Una copia de PyAudio‑0.2.11‑cp39‑cp39‑win_amd64.whl está en esta misma carpeta.
+
+
+Pycharm Community Edition -- Potentísimo y completísimo IDE para Python.
+https://www.jetbrains.com/edu-products/download/#section=idea
+
+
+LINKS DE DESCARGA - DAW Y PLUGINS
+=================================
+
+REAPER -- potentísimo editor de audio multiplataforma.
+https://www.reaper.fm/
+
+
+LOOPMIDI - Puerto virtual de MIDI para Windows.
+http://www.tobias-erichsen.de/software/loopmidi.html
+
+
+OB-DX - Sintetizador monofónico por software (VST).
+https://freevstplugins.net/obxd/
+
+
+Dexed - Sintetizador polifónico FM por software (VST).
+https://dexedsynth.com/download/
+
+Musescore -- Editor y visor de partituras en midi y musicxml
+https://musescore.org/en
